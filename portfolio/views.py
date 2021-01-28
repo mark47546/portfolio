@@ -6,7 +6,7 @@ def index(request):
     if request.method == 'POST':
         forms = ContactForms(request.POST)
         if forms.is_valid():
-            question = form.save()
+            question = forms.save()
             question.save()
     else:
         forms = ContactForms()
