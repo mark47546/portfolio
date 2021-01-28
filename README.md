@@ -1,3 +1,3 @@
 # Portfolio
-Django portfolio website. Natthaphon Rakprakobkij 6110546402
+Django portfolio website by Natthaphon Rakprakobkij 6110546402.
 
